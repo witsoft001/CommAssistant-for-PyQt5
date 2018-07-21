@@ -8,6 +8,6 @@
 4. 关于src->stytle文件夹下的qwindowsvistastyle.dll文件说明：该文件主要是为了解决Pyqt5在win10环境下，界面Style会变成win98的情况，
 在用pyinstaller 打包时需要把样式一并打包进去。请查阅CommAssistant.spec文件说明。
 
-
 界面如下：
+
 ![Image text](https://github.com/zengjiawei/CommAssistant-for-PyQt5/blob/master/Example/interface.jpg)
